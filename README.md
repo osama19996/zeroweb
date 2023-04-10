@@ -1,1 +1,2 @@
 # zeroweb
+## project notes
